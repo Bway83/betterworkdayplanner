@@ -17,4 +17,4 @@ he events are saved in local storage
 
 When the page is refreshed the save information still renders
 
-Website
+Website: https://bway83.github.io/betterworkdayplanner/
